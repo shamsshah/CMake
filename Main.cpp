@@ -2,5 +2,5 @@
    
   int main()
   {
-      std::cout << "Welcome to C++ Tutorials!";
+      std::cout << "Welcome to C++ Tutorials!"<<std::endl;
  }
